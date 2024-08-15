@@ -1,0 +1,3 @@
+0 World
+1 Nether
+2 End
